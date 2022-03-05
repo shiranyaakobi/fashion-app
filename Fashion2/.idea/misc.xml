@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Fashion2/app/src/main/res/drawable-v24/item_shape.xml" value="0.342" />
+        <entry key="..\:/Fashion2/app/src/main/res/drawable/edit_text_shape.xml" value="0.1" />
+        <entry key="..\:/Fashion2/app/src/main/res/drawable/edit_text_shape_rect.xml" value="0.2915" />
+        <entry key="..\:/Fashion2/app/src/main/res/drawable/radiogroup_shape.xml" value="0.323" />
+        <entry key="..\:/Fashion2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Fashion2/app/src/main/res/layout/category_card.xml" value="0.3359375" />
+        <entry key="..\:/Fashion2/app/src/main/res/layout/fragment_add_item.xml" value="0.33" />
+        <entry key="..\:/Fashion2/app/src/main/res/layout/fragment_category_list.xml" value="0.1" />
+        <entry key="..\:/Fashion2/app/src/main/res/layout/fragment_contact.xml" value="0.47784200385356457" />
+        <entry key="..\:/Fashion2/app/src/main/res/layout/fragment_item_list.xml" value="0.1" />
+        <entry key="..\:/Fashion2/app/src/main/res/layout/fragment_show_item.xml" value="0.5" />
+        <entry key="..\:/Fashion2/app/src/main/res/layout/item_card.xml" value="0.27692307692307694" />
+        <entry key="..\:/Fashion2/app/src/main/res/xml/file_paths.xml" value="0.18659420289855072" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
